@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { calendarEvents, type CalendarEvent } from "./calendar-data";
+import { calendarEvents } from "./calendar-data";
 
 const monthNames = [
   "Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος", "Μάιος", "Ιούνιος",
@@ -14,9 +14,6 @@ const longDate = new Intl.DateTimeFormat("el-GR", {
   month: "long",
   year: "numeric",
 });
-
-const filters = ["Όλα", "Μαθήματα", "Εξετάσεις", "Αναπληρώσεις", "Αργίες"] as const;
-type Filter = (typeof filters)[number];
 
 const pad = (value: number) => String(value).padStart(2, "0");
 const dateKey = (value: Date) => `${value.getFullYear()}-${pad(value.getMonth() + 1)}-${pad(value.getDate())}`;
@@ -31,17 +28,9 @@ const kindLabel = (category: string) => {
   return category;
 };
 
-function matchesFilter(event: CalendarEvent, filter: Filter) {
-  if (filter === "Όλα") return event.category !== "Ακαδημαϊκή περίοδος";
-  if (filter === "Μαθήματα") return ["Μάθημα", "Προπαρασκευαστικό", "Εργαστήριο"].includes(event.category);
-  if (filter === "Εξετάσεις") return event.category === "Εξέταση";
-  if (filter === "Αναπληρώσεις") return event.category === "Αναπλήρωση";
-  return event.category === "Αργία";
-}
-
-function eventsForDay(key: string, filter: Filter) {
+function eventsForDay(key: string) {
   return calendarEvents.filter((event) => {
-    if (!matchesFilter(event, filter)) return false;
+    if (event.category === "Ακαδημαϊκή περίοδος") return false;
     return event.allDay ? event.date <= key && key < event.endDate : event.date === key;
   });
 }
@@ -54,65 +43,55 @@ function phaseForDay(key: string) {
 
 export default function CalendarApp() {
   const [month, setMonth] = useState(new Date(2026, 8, 1));
-  const [selectedDate, setSelectedDate] = useState("2026-09-21");
-  const [filter, setFilter] = useState<Filter>("Όλα");
+  const [selectedDate, setSelectedDate] = useState("2026-09-07");
 
   const days = useMemo(() => {
     const first = new Date(month.getFullYear(), month.getMonth(), 1);
     const offset = (first.getDay() + 6) % 7;
+    const daysInMonth = new Date(month.getFullYear(), month.getMonth() + 1, 0).getDate();
+    const cellCount = Math.ceil((offset + daysInMonth) / 7) * 7;
     const start = new Date(first);
     start.setDate(first.getDate() - offset);
-    return Array.from({ length: 42 }, (_, index) => {
+    return Array.from({ length: cellCount }, (_, index) => {
       const day = new Date(start);
       day.setDate(start.getDate() + index);
       return day;
     });
   }, [month]);
 
-  const selectedEvents = eventsForDay(selectedDate, filter);
+  const selectedEvents = eventsForDay(selectedDate);
   const selectedPhase = phaseForDay(selectedDate);
   const previousDisabled = month.getFullYear() === 2026 && month.getMonth() === 8;
   const nextDisabled = month.getFullYear() === 2027 && month.getMonth() === 5;
 
   const moveMonth = (direction: number) => {
     const next = new Date(month.getFullYear(), month.getMonth() + direction, 1);
+    const prefix = `${next.getFullYear()}-${pad(next.getMonth() + 1)}-`;
+    const firstEvent = calendarEvents.find(
+      (event) => event.category !== "Ακαδημαϊκή περίοδος" && event.date.startsWith(prefix),
+    );
     setMonth(next);
-    setSelectedDate(dateKey(next));
+    setSelectedDate(firstEvent?.date ?? dateKey(next));
   };
 
   return (
     <main className="site-shell">
-      <header className="masthead">
-        <div className="brand-mark" aria-hidden="true">AI</div>
-        <div className="brand-copy">
-          <span className="university">Οικονομικό Πανεπιστήμιο Αθηνών · School of Business</span>
+      <header className="site-header">
+        <div>
           <h1>AI for Digital Transformation</h1>
           <p>Ακαδημαϊκό ημερολόγιο 2026–27</p>
         </div>
-        <a className="download-button" href="/pmsc-ai-digital-transformation-2026-27.ics" download>
-          <span aria-hidden="true">↓</span> Λήψη ημερολογίου
+        <a className="download-link" href="/pmsc-ai-digital-transformation-2026-27.ics" download>
+          Λήψη .ics
         </a>
       </header>
 
-      <section className="calendar-card" aria-label="Ακαδημαϊκό ημερολόγιο">
+      <section className="calendar" aria-label="Ακαδημαϊκό ημερολόγιο">
         <div className="calendar-toolbar">
           <div className="month-navigation">
             <button type="button" onClick={() => moveMonth(-1)} disabled={previousDisabled} aria-label="Προηγούμενος μήνας">←</button>
             <h2>{monthNames[month.getMonth()]} {month.getFullYear()}</h2>
             <button type="button" onClick={() => moveMonth(1)} disabled={nextDisabled} aria-label="Επόμενος μήνας">→</button>
-          </div>
-          <div className="filters" aria-label="Φίλτρα συμβάντων">
-            {filters.map((item) => (
-              <button
-                type="button"
-                key={item}
-                className={filter === item ? "active" : ""}
-                aria-pressed={filter === item}
-                onClick={() => setFilter(item)}
-              >
-                {item}
-              </button>
-            ))}
           </div>
         </div>
 
@@ -121,7 +100,7 @@ export default function CalendarApp() {
             {weekdays.map((weekday) => <div className="weekday" role="columnheader" key={weekday}>{weekday}</div>)}
             {days.map((day) => {
               const key = dateKey(day);
-              const dayEvents = eventsForDay(key, filter);
+              const dayEvents = eventsForDay(key);
               const isOutside = day.getMonth() !== month.getMonth();
               const isSelected = key === selectedDate;
               return (
@@ -151,13 +130,12 @@ export default function CalendarApp() {
 
           <aside className="day-panel" aria-live="polite">
             <div className="day-panel-heading">
-              <span className="eyebrow">Επιλεγμένη ημέρα</span>
               <h3>{longDate.format(localDate(selectedDate))}</h3>
               {selectedPhase && <p className="phase-label">{selectedPhase.title}</p>}
             </div>
             <div className="day-event-list">
               {selectedEvents.length === 0 ? (
-                <p className="empty-state">Δεν υπάρχουν προγραμματισμένα συμβάντα με αυτό το φίλτρο.</p>
+                <p className="empty-state">Δεν υπάρχουν προγραμματισμένα συμβάντα.</p>
               ) : selectedEvents.map((event) => (
                 <article className="day-event" data-category={event.category} key={event.id}>
                   <div className="event-meta">
@@ -179,7 +157,6 @@ export default function CalendarApp() {
             <span><i className="dot replacement" />Αναπλήρωση</span>
             <span><i className="dot holiday" />Αργία</span>
           </div>
-          <p>188 συμβάντα · Ώρα Ελλάδας (Europe/Athens)</p>
         </footer>
       </section>
     </main>

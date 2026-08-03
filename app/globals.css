@@ -116,7 +116,10 @@ button { color: inherit; }
   .month-navigation h2 { width: auto; }
   .filters { justify-content: flex-start; }
   .day-cell { min-height: 76px; padding: 6px 4px; }
-  .event-chip { width: 8px; height: 8px; display: inline-block; margin: 3px 2px 0 0; padding: 0; border-radius: 50%; color: transparent; }
+  .event-chip { width: 11px; height: 11px; display: inline-block; margin: 4px 3px 0 0; padding: 0; border-radius: 50%; background: var(--course-strong); color: transparent; box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.95), 0 1px 3px rgba(17, 36, 62, 0.22); }
+  .event-chip[data-category="Εξέταση"] { background: var(--exam-strong); }
+  .event-chip[data-category="Αναπλήρωση"], .event-chip[data-category="Εργαστήριο"] { background: var(--replacement-strong); }
+  .event-chip[data-category="Αργία"] { background: var(--holiday-strong); }
   .event-chip .chip-time { display: none; }
   .more-events { display: none; }
   .weekday { padding: 8px 2px; font-size: 0.66rem; }

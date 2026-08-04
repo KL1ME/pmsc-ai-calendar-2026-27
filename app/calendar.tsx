@@ -17,6 +17,7 @@ const longDate = new Intl.DateTimeFormat("el-GR", {
 
 const pad = (value: number) => String(value).padStart(2, "0");
 const dateKey = (value: Date) => `${value.getFullYear()}-${pad(value.getMonth() + 1)}-${pad(value.getDate())}`;
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 const localDate = (key: string) => {
   const [year, month, day] = key.split("-").map(Number);
   return new Date(year, month - 1, day);
@@ -81,7 +82,7 @@ export default function CalendarApp() {
           <h1>AI for Digital Transformation</h1>
           <p>Ακαδημαϊκό ημερολόγιο 2026–27</p>
         </div>
-        <a className="download-link" href="/pmsc-ai-digital-transformation-2026-27.ics" download>
+        <a className="download-link" href={`${basePath}/pmsc-ai-digital-transformation-2026-27.ics`} download>
           Λήψη .ics
         </a>
       </header>
@@ -100,8 +101,12 @@ export default function CalendarApp() {
             {weekdays.map((weekday) => <div className="weekday" role="columnheader" key={weekday}>{weekday}</div>)}
             {days.map((day) => {
               const key = dateKey(day);
-              const dayEvents = eventsForDay(key);
               const isOutside = day.getMonth() !== month.getMonth();
+              if (isOutside) {
+                return <div className="day-cell outside" role="gridcell" aria-hidden="true" key={key} />;
+              }
+
+              const dayEvents = eventsForDay(key);
               const isSelected = key === selectedDate;
               return (
                 <button

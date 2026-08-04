@@ -5,7 +5,9 @@ Transformation.
 
 ## Live site
 
-[Open the hosted calendar](https://pmsc-ai-calendar-2026-27.apfivos.chatgpt.site)
+[Open the calendar on GitHub Pages](https://kl1me.github.io/pmsc-ai-calendar-2026-27/)
+
+[Private Sites deployment](https://pmsc-ai-calendar-2026-27.apfivos.chatgpt.site)
 
 ## Features
 

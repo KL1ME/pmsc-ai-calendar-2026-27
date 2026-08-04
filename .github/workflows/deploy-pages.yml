@@ -31,6 +31,8 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+        env:
+          PNPM_CONFIG_DANGEROUSLY_ALLOW_ALL_BUILDS: "true"
 
       - name: Validate calendar dates
         run: pnpm run test:dates

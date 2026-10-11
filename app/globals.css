@@ -264,18 +264,19 @@ button { color: inherit; }
 
 :root { --deadline: #c66a08; }
 .dot.deadline { background: var(--deadline); }
-.event-chip[data-category="Παράδοση εργασίας"] { border-left-color: var(--deadline); color: #8a4905; background: #fff8ec; }
-.day-event[data-category="Παράδοση εργασίας"] { border-left: 3px solid var(--deadline); padding-left: 12px; margin-block: 12px; background: #fffaf1; padding-right: 10px; }
-.day-event[data-category="Παράδοση εργασίας"] .event-meta { color: #9b5409; }
-.assignment-link { display: inline-block; color: #9b5409; font-size: .74rem; margin-top: 10px; text-underline-offset: 3px; }
+.event-chip[data-category="Παράδοση εργασίας"] { border-left-color: var(--deadline); }
+.day-event[data-category="Παράδοση εργασίας"] { border-left: 3px solid var(--deadline); padding-left: 12px; margin-block: 12px; padding-right: 10px; }
+.assignment-link { display: inline-block; color: var(--ink); font-size: .74rem; margin-top: 10px; text-underline-offset: 3px; }
 .moodle-panel { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 18px 0; border-bottom: 1px solid var(--line); }
+.moodle-panel .dot { background: var(--ink); }
 .moodle-panel strong { display: flex; align-items: center; gap: 7px; font-size: .8rem; font-weight: 500; }
 .moodle-panel p { margin: 5px 0 0; font-size: .73rem; color: var(--muted); line-height: 1.5; }
 .moodle-actions { display: flex; align-items: center; justify-content: flex-end; flex-wrap: wrap; gap: 12px; max-width: 300px; }
-.moodle-actions a, .moodle-actions button { font-size: .73rem; color: #895119; text-underline-offset: 3px; }
-.moodle-actions button { padding: 8px 10px; background: #fff4e3; border: 1px solid #efd6b6; border-radius: 5px; cursor: pointer; }
+.moodle-actions a, .moodle-actions button { font-size: .73rem; color: var(--ink); text-underline-offset: 3px; }
+.moodle-actions button { padding: 8px 10px; background: #fff; border: 1px solid var(--line); border-radius: 5px; cursor: pointer; }
+.moodle-actions button:hover { background: var(--soft); }
 .moodle-actions .clear-deadlines { background: none; border: 0; color: var(--muted); padding: 0; text-decoration: underline; }
-.moodle-panel .deadline-error { color: #ad3b1a; }
+.moodle-panel .deadline-error { color: var(--ink); font-weight: 600; }
 @media(max-width:680px) {
   .moodle-panel { align-items: flex-start; flex-direction: column; gap: 12px; }
   .moodle-actions { justify-content: flex-start; max-width: none; }

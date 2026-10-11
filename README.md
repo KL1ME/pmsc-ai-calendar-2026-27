@@ -67,3 +67,19 @@ is a snapshot and is separate from the public timetable `.ics` file.
 
 Run `pnpm run test:dates` and `pnpm run test:deadlines` before publishing. GitHub
 Pages builds with `pnpm run build:pages` and the base-path variables in its workflow.
+
+## Current GitHub Pages publishing
+
+Pages serves prebuilt static files from the root of `gh-pages`, including
+`.nojekyll`. The October 2026 update was built and tested locally because GitHub
+Actions reported an account billing/spending restriction before starting a runner.
+No billing settings were changed. This is GitHub's supported direct publishing
+mode: https://github.blog/changelog/2024-07-08-pages-legacy-worker-sunset/
+
+For updates, build with `PAGES_BASE_PATH=/pmsc-ai-calendar-2026-27`,
+`NEXT_PUBLIC_BASE_PATH=/pmsc-ai-calendar-2026-27` and
+`NEXT_PUBLIC_SITE_URL=https://kl1me.github.io`, then publish only the contents of
+`out/` plus `.nojekyll` to `gh-pages`. Keep source code on `main` and personal
+Moodle data outside both branches. A push to `main` alone does not update the site.
+The original Actions workflow is retained for manual use after the account issue
+is resolved and the Pages publishing source is restored to GitHub Actions.

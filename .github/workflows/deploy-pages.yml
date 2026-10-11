@@ -1,8 +1,8 @@
 name: Deploy GitHub Pages
 
 on:
-  push:
-    branches: [main]
+  # Pages currently serves the locally built gh-pages branch with .nojekyll.
+  # Restore the Pages source to GitHub Actions before using this workflow.
   workflow_dispatch:
 
 permissions:

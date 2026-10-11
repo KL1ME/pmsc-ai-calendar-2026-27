@@ -8,6 +8,9 @@ export type CalendarEvent = {
   allDay: boolean;
   location: string;
   category: string;
+  course?: string;
+  url?: string;
+  deadlineAt?: string;
 };
 
 export const calendarEvents: CalendarEvent[] = [

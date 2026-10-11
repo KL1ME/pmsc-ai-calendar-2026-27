@@ -1,7 +1,9 @@
 "use client";
 
-import { useMemo, useState } from "react";
-import { calendarEvents } from "./calendar-data";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { calendarEvents, type CalendarEvent } from "./calendar-data";
+import { athensDateTime, DEADLINE_CATEGORY, DEADLINE_STORAGE, deadlinesICS, mergeEvents,
+  parseDeadlineFeed, trustedMessage, validMonitorOrigin, type Connection, type DeadlineFeed } from "./moodle-deadlines";
 
 const monthNames = [
   "Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος", "Μάιος", "Ιούνιος",
@@ -29,8 +31,8 @@ const kindLabel = (category: string) => {
   return category;
 };
 
-function eventsForDay(key: string) {
-  return calendarEvents.filter((event) => {
+function eventsForDay(key: string, events: CalendarEvent[]) {
+  return events.filter((event) => {
     if (event.category === "Ακαδημαϊκή περίοδος") return false;
     return event.allDay ? event.date <= key && key < event.endDate : event.date === key;
   });
@@ -45,6 +47,75 @@ function phaseForDay(key: string) {
 export default function CalendarApp() {
   const [month, setMonth] = useState(new Date(2026, 8, 1));
   const [selectedDate, setSelectedDate] = useState("2026-09-07");
+  const [deadlines, setDeadlines] = useState<DeadlineFeed | null>(null);
+  const [live, setLive] = useState(false);
+  const [deadlineError, setDeadlineError] = useState("");
+  const connection = useRef<Connection | null>(null);
+  const receivedAt = useRef(0);
+  const focused = useRef(false);
+  const allEvents = useMemo(() => mergeEvents(calendarEvents, deadlines), [deadlines]);
+
+  useEffect(() => {
+    const focusDeadline = (feed: DeadlineFeed) => {
+      if (focused.current || !feed.events.length) return;
+      const today = athensDateTime(new Date().toISOString()).date;
+      const event = feed.events.find(item => item.date >= today) ?? feed.events[0];
+      const day = localDate(event.date);
+      setMonth(new Date(day.getFullYear(), day.getMonth(), 1));
+      setSelectedDate(event.date); focused.current = true;
+    };
+    try {
+      const saved = localStorage.getItem(DEADLINE_STORAGE);
+      if (saved) { const feed = parseDeadlineFeed(JSON.parse(saved)); setDeadlines(feed); focusDeadline(feed); }
+    } catch { setDeadlineError("Η αποθηκευμένη καταγραφή δεν είναι διαθέσιμη. Σύνδεσε ξανά το Moodle Monitor."); }
+
+    let pairing = location.hash.slice(1);
+    try { pairing = pairing || sessionStorage.getItem("moodle-calendar-pairing") || ""; } catch { /* Storage is optional. */ }
+    const fragment = new URLSearchParams(pairing);
+    const origin = fragment.get("moodle-origin"), session = fragment.get("moodle-session");
+    if (origin && session && validMonitorOrigin(origin) && /^[a-f0-9-]{36}$/.test(session) && window.opener) {
+      connection.current = { origin, session, source: window.opener };
+      try { sessionStorage.setItem("moodle-calendar-pairing", fragment.toString()); } catch { /* This connection still works. */ }
+      // The fragment contains only a one-time pairing nonce, never Moodle credentials or data.
+      history.replaceState(null, "", location.pathname + location.search);
+    }
+    const request = () => {
+      const link = connection.current;
+      if (link && window.opener && !window.opener.closed) {
+        window.opener.postMessage({ type: "moodle-calendar-ready", session: link.session }, link.origin);
+      } else { setLive(false); }
+      if (Date.now() - receivedAt.current > 90000) setLive(false);
+    };
+    const receive = (event: MessageEvent) => {
+      const link = connection.current;
+      if (!link || !trustedMessage(event, link)) return;
+      if (event.data.type === "moodle-calendar-unavailable") {
+        setLive(false); setDeadlineError("Το Moodle Monitor χρειάζεται σύνδεση. Εμφανίζεται η τελευταία καταγραφή."); return;
+      }
+      if (event.data.type !== "moodle-calendar-data") return;
+      try {
+        const feed = parseDeadlineFeed(event.data.payload);
+        setDeadlines(feed); setLive(true); receivedAt.current = Date.now(); setDeadlineError(""); focusDeadline(feed);
+        try { localStorage.setItem(DEADLINE_STORAGE, JSON.stringify(feed)); }
+        catch { setDeadlineError("Οι παραδόσεις εμφανίζονται, αλλά δεν μπόρεσαν να αποθηκευτούν σε αυτόν τον browser."); }
+      } catch { setDeadlineError("Δεν ήταν δυνατή η ανάγνωση των προθεσμιών. Η προηγούμενη καταγραφή διατηρήθηκε."); }
+    };
+    window.addEventListener("message", receive);
+    request(); const timer = setInterval(request, 30000);
+    return () => { window.removeEventListener("message", receive); clearInterval(timer); };
+  }, []);
+
+  const clearDeadlines = () => {
+    const link = connection.current;
+    if (link && window.opener) window.opener.postMessage({ type: "moodle-calendar-disconnect", session: link.session }, link.origin);
+    connection.current = null; setDeadlines(null); setLive(false); setDeadlineError("");
+    try { localStorage.removeItem(DEADLINE_STORAGE); sessionStorage.removeItem("moodle-calendar-pairing"); } catch { /* Current page still clears. */ }
+  };
+  const downloadDeadlines = () => {
+    const url = URL.createObjectURL(new Blob([deadlinesICS(deadlines?.events ?? [])], { type: "text/calendar;charset=utf-8" }));
+    const link = document.createElement("a"); link.href = url; link.download = "moodle-paradoseis-2026-27.ics";
+    link.click(); setTimeout(() => URL.revokeObjectURL(url), 1000);
+  };
 
   const days = useMemo(() => {
     const first = new Date(month.getFullYear(), month.getMonth(), 1);
@@ -60,7 +131,7 @@ export default function CalendarApp() {
     });
   }, [month]);
 
-  const selectedEvents = eventsForDay(selectedDate);
+  const selectedEvents = eventsForDay(selectedDate, allEvents);
   const selectedPhase = phaseForDay(selectedDate);
   const previousDisabled = month.getFullYear() === 2026 && month.getMonth() === 8;
   const nextDisabled = month.getFullYear() === 2027 && month.getMonth() === 5;
@@ -68,7 +139,7 @@ export default function CalendarApp() {
   const moveMonth = (direction: number) => {
     const next = new Date(month.getFullYear(), month.getMonth() + direction, 1);
     const prefix = `${next.getFullYear()}-${pad(next.getMonth() + 1)}-`;
-    const firstEvent = calendarEvents.find(
+    const firstEvent = allEvents.find(
       (event) => event.category !== "Ακαδημαϊκή περίοδος" && event.date.startsWith(prefix),
     );
     setMonth(next);
@@ -86,6 +157,24 @@ export default function CalendarApp() {
           Λήψη .ics
         </a>
       </header>
+
+      <section className="moodle-panel" aria-label="Ιδιωτικές παραδόσεις Moodle">
+        <div>
+          <strong><i className="dot deadline" /> Παραδόσεις εργασιών {deadlines ? `· ${deadlines.events.length}` : ""}</strong>
+          <p>{deadlines ? `${live ? "Συνδεδεμένο με το Moodle Monitor" : "Αποθηκευμένες προθεσμίες"} · μόνο σε αυτόν τον browser.`
+            : "Άνοιξε το ημερολόγιο από το Moodle Monitor για να δεις τις προσωπικές σου προθεσμίες."}</p>
+          {deadlines?.checkedAt && <p>Τελευταία ανάγνωση Moodle: {new Intl.DateTimeFormat("el-GR", { timeZone: "Europe/Athens", dateStyle: "short", timeStyle: "short" }).format(new Date(deadlines.checkedAt))} · Ώρες Ελλάδας</p>}
+          {!!deadlines?.withoutDue && <p>{deadlines.withoutDue} εργασίες χωρίς ορισμένη ημερομηνία.</p>}
+          {!!deadlines?.outsidePeriod && <p>{deadlines.outsidePeriod} προθεσμίες εκτός Σεπτεμβρίου 2026–Ιουνίου 2027 δεν εμφανίζονται.</p>}
+          {deadlines?.incomplete && <p className="deadline-error">Η αρχική ανάγνωση εργασιών δεν έχει ολοκληρωθεί για όλα τα επιλεγμένα μαθήματα.</p>}
+          {deadlineError && <p className="deadline-error" role="status">{deadlineError}</p>}
+        </div>
+        <div className="moodle-actions">
+          {deadlines && <button type="button" onClick={downloadDeadlines}>Λήψη εργασιών .ics</button>}
+          <a href="http://127.0.0.1:8765/" target="_blank" rel="noopener noreferrer">Moodle Monitor ↗</a>
+          {deadlines && <button className="clear-deadlines" type="button" onClick={clearDeadlines}>Αφαίρεση από αυτόν τον browser</button>}
+        </div>
+      </section>
 
       <section className="calendar" aria-label="Ακαδημαϊκό ημερολόγιο">
         <div className="calendar-toolbar">
@@ -106,7 +195,8 @@ export default function CalendarApp() {
                 return <div className="day-cell outside" role="gridcell" aria-hidden="true" key={key} />;
               }
 
-              const dayEvents = eventsForDay(key);
+              const dayEvents = eventsForDay(key, allEvents);
+              const previewEvents = [...dayEvents].sort((a, b) => Number(b.category === DEADLINE_CATEGORY) - Number(a.category === DEADLINE_CATEGORY));
               const isSelected = key === selectedDate;
               return (
                 <button
@@ -120,7 +210,7 @@ export default function CalendarApp() {
                 >
                   <span className="day-number">{day.getDate()}</span>
                   <span className="cell-events">
-                    {dayEvents.slice(0, 3).map((event) => (
+                    {previewEvents.slice(0, 3).map((event) => (
                       <span className="event-chip" data-category={event.category} key={event.id}>
                         {!event.allDay && <span className="chip-time">{event.startTime}</span>}
                         {cleanTitle(event.title)}
@@ -145,10 +235,12 @@ export default function CalendarApp() {
                 <article className="day-event" data-category={event.category} key={event.id}>
                   <div className="event-meta">
                     <span>{kindLabel(event.category)}</span>
-                    <time>{event.allDay ? "Όλη μέρα" : `${event.startTime}–${event.endTime}`}</time>
+                    <time>{event.category === DEADLINE_CATEGORY ? `Έως ${event.startTime}` : event.allDay ? "Όλη μέρα" : `${event.startTime}–${event.endTime}`}</time>
                   </div>
                   <h4>{cleanTitle(event.title)}</h4>
                   {event.location && <p>{event.location}</p>}
+                  {event.course && <p>{event.course}</p>}
+                  {event.url && <a className="assignment-link" href={event.url} target="_blank" rel="noopener noreferrer">Άνοιγμα εργασίας στο Moodle ↗</a>}
                 </article>
               ))}
             </div>
@@ -161,6 +253,7 @@ export default function CalendarApp() {
             <span><i className="dot exam" />Εξέταση</span>
             <span><i className="dot replacement" />Αναπλήρωση</span>
             <span><i className="dot holiday" />Αργία</span>
+            <span><i className="dot deadline" />Παράδοση εργασίας</span>
           </div>
         </footer>
       </section>

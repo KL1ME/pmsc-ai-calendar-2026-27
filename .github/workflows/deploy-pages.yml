@@ -37,6 +37,9 @@ jobs:
       - name: Validate calendar dates
         run: pnpm run test:dates
 
+      - name: Validate private deadline bridge
+        run: pnpm run test:deadlines
+
       - name: Build static site
         run: pnpm run build:pages
         env:

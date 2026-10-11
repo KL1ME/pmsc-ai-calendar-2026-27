@@ -2,5 +2,5 @@
 2:I[65773,["/pmsc-ai-calendar-2026-27/_next/static/chunks/0typu5mmra_zv.js","/pmsc-ai-calendar-2026-27/_next/static/chunks/178k6we11vvtx.js"],"default"]
 3:I[25326,["/pmsc-ai-calendar-2026-27/_next/static/chunks/0typu5mmra_zv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/pmsc-ai-calendar-2026-27/_next/static/chunks/178k6we11vvtx.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yLn1aBSBh7ox_Q4ULvy-p"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/pmsc-ai-calendar-2026-27/_next/static/chunks/178k6we11vvtx.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rQnQzB7NIt8ZDL6xG7X_L"}
 5:null

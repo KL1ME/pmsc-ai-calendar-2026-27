@@ -6,7 +6,7 @@ import tempfile
 import unittest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from calendar_sync import merge, validate, period, location, fold, write, read_events, ROOT, ICS_PATH, unfold
+from calendar_sync import merge, validate, period, location, fold, write, read_events, ROOT, ICS_PATH, unfold, parse_dated_body
 
 
 def event(day='2026-10-14', title='[Μάθημα] Data Management and Engineering'):
@@ -52,6 +52,23 @@ class SyncTests(unittest.TestCase):
 
     def test_ics_utf8_lines_are_folded_without_splitting_characters(self):
         self.assertTrue(all(len(x.encode()) <= 75 for x in fold('SUMMARY:' + 'Αθήνα ' * 40).split('\r\n')))
+
+    def test_fully_dated_announcement_moves_only_matching_course_in_week(self):
+        old = event('2026-10-17')
+        scopes = parse_dated_body('Wednesday, 14 October 2026, 15:00–18:00: Data Management and Engineering – Room 403', [old])
+        new, changes, removed = merge([old], scopes)
+        self.assertEqual(new[0]['date'], '2026-10-14')
+        self.assertEqual(new[0]['id'], old['id'])
+        self.assertIn('403', new[0]['location'])
+        self.assertEqual(len(changes), 1)
+        self.assertEqual(removed, [])
+
+    def test_ambiguous_announcement_does_not_guess(self):
+        old = event('2026-10-17')
+        other = dict(old, id='b' * 40, date='2026-10-15', endDate='2026-10-15')
+        with self.assertRaises(ValueError):
+            parse_dated_body('Wednesday, 14 October 2026, 15:00–18:00: Data Management and Engineering – Room 403', [old, other])
+        self.assertEqual(parse_dated_body('The lecture moves to tomorrow at 15:00.', [old]), [])
 
     def test_web_and_ics_share_active_ids_and_cancelled_events_persist(self):
         with tempfile.TemporaryDirectory() as tmp:

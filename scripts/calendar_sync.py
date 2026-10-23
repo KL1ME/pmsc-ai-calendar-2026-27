@@ -78,6 +78,8 @@ def parse_pdf(path, existing, year=2026):
                     continue
                 weekly = 'WEEK PROGRAM' in table[0][0]
                 if weekly:
+                    if 'artificialintelligencefordigitaltransformation' not in norm(table[0][0]):
+                        raise ValueError('Weekly timetable belongs to another programme')
                     scope = None
                     for row in table[1:]:
                         if len(row) != 9:

@@ -25,2106 +25,2694 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:d7b63c8a69ca62b16f200f11257ba2794f330299@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260912
 SUMMARY:Προ-προπαρασκευαστική εβδομάδα
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5badda54f1be33222d258d73ccb2e54d16160723@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260907T150000
 DTEND;TZID=Europe/Athens:20260907T180000
 SUMMARY:[Προπαρασκευαστικό] Introduction to Databases
-DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκο
- ντες: C. Kapetis
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Προπαρασκευαστικό
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκ
+ οντες: C. Kapetis
 END:VEVENT
 BEGIN:VEVENT
 UID:44d5f8e1ac77528d42751c3f4de5e3eb0f4f2c99@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260908T150000
 DTEND;TZID=Europe/Athens:20260908T180000
 SUMMARY:[Προπαρασκευαστικό] Introduction to Databases
-DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκο
- ντες: C. Kapetis
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Προπαρασκευαστικό
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκ
+ οντες: C. Kapetis
 END:VEVENT
 BEGIN:VEVENT
 UID:d407d18bf0b6e055e3306648265a3b23e3c788ff@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260909T150000
 DTEND;TZID=Europe/Athens:20260909T180000
 SUMMARY:[Προπαρασκευαστικό] Introduction to Databases
-DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκο
- ντες: C. Kapetis
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Προπαρασκευαστικό
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκ
+ οντες: C. Kapetis
 END:VEVENT
 BEGIN:VEVENT
 UID:0b9e7c937dfd451b90435581980adfe09d2ca15e@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260910T150000
 DTEND;TZID=Europe/Athens:20260910T180000
 SUMMARY:[Προπαρασκευαστικό] Introduction to Statistics
-DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκο
- ντες: I. Vrontos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Προπαρασκευαστικό
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκ
+ οντες: I. Vrontos
 END:VEVENT
 BEGIN:VEVENT
 UID:a00427f8a11230865ed94ea2349737f9338d9880@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260911T150000
 DTEND;TZID=Europe/Athens:20260911T180000
 SUMMARY:[Προπαρασκευαστικό] Introduction to Statistics
-DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκο
- ντες: I. Vrontos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Προπαρασκευαστικό
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκ
+ οντες: I. Vrontos
 END:VEVENT
 BEGIN:VEVENT
 UID:2d3beb06ee3fe2c809fa5181304b13c608e84a9e@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260920
 SUMMARY:Προπαρασκευαστική εβδομάδα
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2a5c60d266108ce5643f959a843549e1b5bffd6a@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260914T150000
 DTEND;TZID=Europe/Athens:20260914T180000
 SUMMARY:[Προπαρασκευαστικό] Introduction to Statistics
-DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκο
- ντες: I. Vrontos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Προπαρασκευαστικό
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκ
+ οντες: I. Vrontos
 END:VEVENT
 BEGIN:VEVENT
 UID:9530c10400ec9fc76150328cb489772be2ff20ca@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260915T150000
 DTEND;TZID=Europe/Athens:20260915T180000
-SUMMARY:[Προπαρασκευαστικό] Introduction to Programming (P
- ython)
-DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκο
- ντες: M. Kechagia
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Προπαρασκευαστικό] Introduction to Programming 
+ (Python)
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Προπαρασκευαστικό
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκ
+ οντες: M. Kechagia
 END:VEVENT
 BEGIN:VEVENT
 UID:3ef544c8f688e9b88661494fedc08ffa6bb347f8@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260916T150000
 DTEND;TZID=Europe/Athens:20260916T180000
-SUMMARY:[Προπαρασκευαστικό] Introduction to Programming (P
- ython)
-DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκο
- ντες: M. Kechagia
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Προπαρασκευαστικό] Introduction to Programming 
+ (Python)
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Προπαρασκευαστικό
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Προπαρασκευαστικό\nΔιδάσκ
+ οντες: M. Kechagia
 END:VEVENT
 BEGIN:VEVENT
 UID:7a64e6f90e413b793b0d0c541ae4f99551acd39f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20261101
 SUMMARY:1ο εξάμηνο - 1η διδακτική περίοδος
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8221231027b546783c42e27160422925f7fbe1c7@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260923T150000
 DTEND;TZID=Europe/Athens:20260923T180000
 SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:891fbfda06f352cec0f2c44a29afabdbb89fdfe7@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260923T180000
 DTEND;TZID=Europe/Athens:20260923T210000
-SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision Mak
- ing
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos /
-  I. Mourtos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision M
+ aking
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos
+  / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:2ab2fbbd750f1452176de779924623b1d6159295@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260925T150000
 DTEND;TZID=Europe/Athens:20260925T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:a6fe9102286a785dd3619e50a95a2a0693f596cc@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260925T180000
 DTEND;TZID=Europe/Athens:20260925T210000
 SUMMARY:[Μάθημα] People & Teams Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola / I
- . Nikolaou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola /
+  I. Nikolaou
 END:VEVENT
 BEGIN:VEVENT
 UID:5c7e3001fc583651958531da788b3e63c88b6d5c@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260926T090000
 DTEND;TZID=Europe/Athens:20260926T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:bb55fe8fde626bbae9cc7030d0e8b9c9e560d1cb@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260926T120000
 DTEND;TZID=Europe/Athens:20260926T150000
 SUMMARY:[Μάθημα] Data Management and Engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiriak
- opoulos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiri
+ akopoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:261169d2ef93bf82076ee1126e3cbd2702370d2f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260930T150000
 DTEND;TZID=Europe/Athens:20260930T180000
 SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:3d83a7c51209ddbe6ef6e9216690836c4840e9ab@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20260930T180000
 DTEND;TZID=Europe/Athens:20260930T210000
-SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision Mak
- ing
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos /
-  I. Mourtos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision M
+ aking
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos
+  / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:c66f45aa1e3ab82ac83b64adc62897803e8b7d55@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261002T150000
 DTEND;TZID=Europe/Athens:20261002T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:1aa2f54abfb6df3fd6debc47b651f76860a7ba63@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261002T180000
 DTEND;TZID=Europe/Athens:20261002T210000
 SUMMARY:[Μάθημα] People & Teams Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola / I
- . Nikolaou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola /
+  I. Nikolaou
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b6bc6829d7b7055ae0702bbdb012d86f3d0a2d@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261003T090000
 DTEND;TZID=Europe/Athens:20261003T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:7af505e64c45749a018cc2002799e476ae8c5914@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261003T120000
 DTEND;TZID=Europe/Athens:20261003T150000
 SUMMARY:[Μάθημα] Data Management and Engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiriak
- opoulos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiri
+ akopoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:ca0e38acf986987c2a803fe905ce1e5acda16bbc@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261007T150000
 DTEND;TZID=Europe/Athens:20261007T180000
 SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:0b6fd065a802c39e195f0d98038b54b368c7351e@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261007T180000
 DTEND;TZID=Europe/Athens:20261007T210000
-SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision Mak
- ing
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos /
-  I. Mourtos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision M
+ aking
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos
+  / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:6b8f67431fd82f79e66605450634d4de38a0e6d8@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261009T150000
 DTEND;TZID=Europe/Athens:20261009T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:504e7bffb55f000a1d5047164ff59c1fdbaeba3d@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261009T180000
 DTEND;TZID=Europe/Athens:20261009T210000
 SUMMARY:[Μάθημα] People & Teams Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola / I
- . Nikolaou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola /
+  I. Nikolaou
 END:VEVENT
 BEGIN:VEVENT
 UID:f60f4fd695524283744cf1c7da9c9456604f91d7@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261010T090000
 DTEND;TZID=Europe/Athens:20261010T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:4c600ab58afc6ab0ccf76735fad6912ed2398889@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261010T120000
 DTEND;TZID=Europe/Athens:20261010T150000
 SUMMARY:[Μάθημα] Data Management and Engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiriak
- opoulos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:9714ae7eee87ce7ab38d056935d8b8fafca10fc3@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261014T150000
-DTEND;TZID=Europe/Athens:20261014T180000
-SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
-CATEGORIES:Μάθημα
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e15674075a94e600088e526d6ab931bca41a4b00@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261014T180000
-DTEND;TZID=Europe/Athens:20261014T210000
-SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision Mak
- ing
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos /
-  I. Mourtos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
-CATEGORIES:Μάθημα
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:51d79a252acaa7c4619e567ccb17ee5497030219@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261015T160000
-DTEND;TZID=Europe/Athens:20261015T180000
-SUMMARY:[Εργαστήριο] Digital Transformation and Business Strategy
-  - Lab
-DESCRIPTION:Τύπος: Εργαστήριο\nΔιδάσκοντες: T. Fa
- rmakis
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
-CATEGORIES:Εργαστήριο
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:0f46aecf1853e96744062a10d6203005f31158c6@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261016T150000
-DTEND;TZID=Europe/Athens:20261016T180000
-SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
-CATEGORIES:Μάθημα
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:0e1ca4195e6c0f117f422a3cf452417a0b7f3754@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261016T180000
-DTEND;TZID=Europe/Athens:20261016T210000
-SUMMARY:[Μάθημα] People & Teams Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola / I
- . Nikolaou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
-CATEGORIES:Μάθημα
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:657291e432bb23fead6d4a026acf567ef8a4cc9f@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261017T090000
-DTEND;TZID=Europe/Athens:20261017T120000
-SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
-CATEGORIES:Μάθημα
-STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiri
+ akopoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:2bc9d2e07f975c3140f784ac49a6b844c07bd8f5@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261017T120000
-DTEND;TZID=Europe/Athens:20261017T150000
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261014T150000
+DTEND;TZID=Europe/Athens:20261014T180000
 SUMMARY:[Μάθημα] Data Management and Engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiriak
- opoulos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiri
+ akopoulos
 END:VEVENT
 BEGIN:VEVENT
-UID:cc1fa9a7177feb1c70f6e93cf35bf3d5a3d77176@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261021T150000
-DTEND;TZID=Europe/Athens:20261021T180000
-SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+UID:e15674075a94e600088e526d6ab931bca41a4b00@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261014T180000
+DTEND;TZID=Europe/Athens:20261014T210000
+SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision M
+ aking
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos
+  / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
-UID:f1332c7d983934cfc87508ad8592091c095cfcc6@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261021T180000
-DTEND;TZID=Europe/Athens:20261021T210000
-SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision Mak
- ing
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos /
-  I. Mourtos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
-CATEGORIES:Μάθημα
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:36fbe7710eed8046888beb8f3e70032f8b7bf933@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261022T160000
-DTEND;TZID=Europe/Athens:20261022T180000
-SUMMARY:[Εργαστήριο] Digital Transformation and Business Strategy
-  - Lab
-DESCRIPTION:Τύπος: Εργαστήριο\nΔιδάσκοντες: T. Fa
- rmakis
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+UID:51d79a252acaa7c4619e567ccb17ee5497030219@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261015T160000
+DTEND;TZID=Europe/Athens:20261015T180000
+SUMMARY:[Εργαστήριο] Digital Transformation and Business Strate
+ gy - Lab
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
 CATEGORIES:Εργαστήριο
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εργαστήριο\nΔιδάσκοντες: T. 
+ Farmakis
 END:VEVENT
 BEGIN:VEVENT
-UID:3e9ffeeeb44e4bf742f92c4c2bde2ddd5c651582@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261023T150000
-DTEND;TZID=Europe/Athens:20261023T180000
+UID:0f46aecf1853e96744062a10d6203005f31158c6@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261016T150000
+DTEND;TZID=Europe/Athens:20261016T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
-UID:be7384243f3fcae7827e14d264636822bff71ef1@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261023T180000
-DTEND;TZID=Europe/Athens:20261023T210000
+UID:0e1ca4195e6c0f117f422a3cf452417a0b7f3754@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261016T180000
+DTEND;TZID=Europe/Athens:20261016T210000
 SUMMARY:[Μάθημα] People & Teams Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola / I
- . Nikolaou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola /
+  I. Nikolaou
 END:VEVENT
 BEGIN:VEVENT
-UID:93418cc867d47727617896c49f95bcae321ff510@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261024T090000
-DTEND;TZID=Europe/Athens:20261024T120000
+UID:657291e432bb23fead6d4a026acf567ef8a4cc9f@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261017T090000
+DTEND;TZID=Europe/Athens:20261017T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
+END:VEVENT
+BEGIN:VEVENT
+UID:9714ae7eee87ce7ab38d056935d8b8fafca10fc3@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261017T120000
+DTEND;TZID=Europe/Athens:20261017T150000
+SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
+CATEGORIES:Μάθημα
+STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:6b788cf767639aac639f993eeeb1bce4b37c2266@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261024T120000
-DTEND;TZID=Europe/Athens:20261024T150000
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261021T150000
+DTEND;TZID=Europe/Athens:20261021T180000
 SUMMARY:[Μάθημα] Data Management and Engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiriak
- opoulos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiri
+ akopoulos
+END:VEVENT
+BEGIN:VEVENT
+UID:f1332c7d983934cfc87508ad8592091c095cfcc6@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261021T180000
+DTEND;TZID=Europe/Athens:20261021T210000
+SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision M
+ aking
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
+CATEGORIES:Μάθημα
+STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos
+  / I. Mourtos
+END:VEVENT
+BEGIN:VEVENT
+UID:36fbe7710eed8046888beb8f3e70032f8b7bf933@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261022T160000
+DTEND;TZID=Europe/Athens:20261022T180000
+SUMMARY:[Εργαστήριο] Digital Transformation and Business Strate
+ gy - Lab
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
+CATEGORIES:Εργαστήριο
+STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εργαστήριο\nΔιδάσκοντες: T. 
+ Farmakis
+END:VEVENT
+BEGIN:VEVENT
+UID:3e9ffeeeb44e4bf742f92c4c2bde2ddd5c651582@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261023T150000
+DTEND;TZID=Europe/Athens:20261023T180000
+SUMMARY:[Μάθημα] Systems Analysis and Design
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
+CATEGORIES:Μάθημα
+STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
+END:VEVENT
+BEGIN:VEVENT
+UID:be7384243f3fcae7827e14d264636822bff71ef1@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261023T180000
+DTEND;TZID=Europe/Athens:20261023T210000
+SUMMARY:[Μάθημα] People & Teams Management
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
+CATEGORIES:Μάθημα
+STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola /
+  I. Nikolaou
+END:VEVENT
+BEGIN:VEVENT
+UID:93418cc867d47727617896c49f95bcae321ff510@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261024T090000
+DTEND;TZID=Europe/Athens:20261024T120000
+SUMMARY:[Μάθημα] Java and Web (React) Programming
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
+CATEGORIES:Μάθημα
+STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
+END:VEVENT
+BEGIN:VEVENT
+UID:cc1fa9a7177feb1c70f6e93cf35bf3d5a3d77176@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Athens:20261024T120000
+DTEND;TZID=Europe/Athens:20261024T150000
+SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
+CATEGORIES:Μάθημα
+STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:42faf8dfb1ec9a636ff46d1c97a226675bd75412@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Αργία / Διακοπές: 28η Οκτωβρίου
+LOCATION:
 CATEGORIES:Αργία
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8b13c5200a53b2d54591e83962b9f23717bab04d@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261030T150000
 DTEND;TZID=Europe/Athens:20261030T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:22819f6c13091e120b6739bae00712547ad679e3@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261030T180000
 DTEND;TZID=Europe/Athens:20261030T210000
 SUMMARY:[Μάθημα] People & Teams Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola / I
- . Nikolaou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Vakola /
+  I. Nikolaou
 END:VEVENT
 BEGIN:VEVENT
 UID:eaf1c1ca3ef6299978485810b78cf19845a546c7@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261031T090000
 DTEND;TZID=Europe/Athens:20261031T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
-UID:6a86f2d9996bdaee652b42cc744bdcdf801b2e4a@pmsc-aidt
-DTSTAMP:20260803T120000Z
+UID:a700200c29992c6d7b65c8ee2bbd6f30059c7d99@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261031T120000
 DTEND;TZID=Europe/Athens:20261031T150000
-SUMMARY:[Μάθημα] Data Management and Engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiriak
- opoulos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:15fb6256411897b79a59aa337d4dfe1633246ef7@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261108
 SUMMARY:1ο εξάμηνο - περίοδος αναπληρώσεων
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e39a8889b6d53c3f348a8bbd36444be7ac5f5034@pmsc-aidt
-DTSTAMP:20260803T120000Z
+UID:2d7b752cbba37c56319bd0c2e3e4bc0297c6f880@pmsc-aidt
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261104T150000
 DTEND;TZID=Europe/Athens:20261104T180000
-SUMMARY:[Αναπλήρωση] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: G. Do
- ukidis / T. Farmakis / X. Lazaris
+SUMMARY:[Αναπλήρωση] Data Management and Engineering
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Αναπλήρωση
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2aaa8b0fe6c15e4e228c12fea784bfbabdd437c1@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261104T180000
 DTEND;TZID=Europe/Athens:20261104T210000
-SUMMARY:[Αναπλήρωση] Statistics and Quantitative Methods for Deci
- sion Making
-DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: E. Kr
- itikos / I. Mourtos
+SUMMARY:[Αναπλήρωση] Statistics and Quantitative Methods for De
+ cision Making
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Αναπλήρωση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: E. 
+ Kritikos / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:d6867ba1999408c6479502372c77d106145fdf0c@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261122
 SUMMARY:1ο εξάμηνο - εξεταστική 1ης περιόδου
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0238dc26add2f33313d264c8f314ef4a564b4310@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261111T180000
 DTEND;TZID=Europe/Athens:20261111T210000
 SUMMARY:[Εξέταση] Data Management and Engineering (Presentations)
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: D. Papakiri
- akopoulos
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:a3a9eba05a29ed2af3358296e678c6d0e73c15e6@pmsc-aidt
-DTSTAMP:20260803T120000Z
-DTSTART;TZID=Europe/Athens:20261113T150000
-DTEND;TZID=Europe/Athens:20261113T180000
-SUMMARY:[Εξέταση] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: G. Doukidis
-  / T. Farmakis / X. Lazaris
-CATEGORIES:Εξέταση
-STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: D. Papaki
+ riakopoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:04433ea777e091b7bbc8d9a6210d0d97ef604e34@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Αργία / Διακοπές: 17η Νοεμβρίου
+LOCATION:
 CATEGORIES:Αργία
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4c368ed396fc1f95dc36bad0b16e306a899f6e2c@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261118T180000
 DTEND;TZID=Europe/Athens:20261118T210000
 SUMMARY:[Εξέταση] People & Teams Management
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: M. Vakola /
-  I. Nikolaou
+LOCATION:Ευελπίδων 47Α: Αίθουσα 404 (Barlas - Markou)\, 
+ Αίθουσα 901 (Maroulis - Ziogas)
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: M. Vakola
+  / I. Nikolaou
 END:VEVENT
 BEGIN:VEVENT
 UID:6f53a2faa37b3700a64078a5a69f96ba4f79b34a@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20270117
 SUMMARY:1ο εξάμηνο - 2η διδακτική περίοδος
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9facdafb0d1a8933ac515a9528206f006033b65f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261125T150000
 DTEND;TZID=Europe/Athens:20261125T180000
 SUMMARY:[Μάθημα] User-Centered Design Thinking
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Kotsopoulo
- s
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Kotsopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:31ed0c702d866268ffd60d1a55f2a5be3474206d@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261125T180000
 DTEND;TZID=Europe/Athens:20261125T210000
-SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision Mak
- ing
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos /
-  I. Mourtos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision M
+ aking
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos
+  / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:0e64a1a5663e7a0ca13417239a08c0af966cf593@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261127T150000
 DTEND;TZID=Europe/Athens:20261127T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb1f8c38f52a09347d8d5aa1d66fead0633ddd9@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261127T180000
 DTEND;TZID=Europe/Athens:20261127T210000
 SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:802a2358bc479a7d939791275fd562345eda685a@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261128T090000
 DTEND;TZID=Europe/Athens:20261128T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:49fc907ce0af648253700e0b791c4b75a581b6fd@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261128T120000
 DTEND;TZID=Europe/Athens:20261128T150000
 SUMMARY:[Μάθημα] Business Process Modelling and Re-engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimenak
- ou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimen
+ akou
 END:VEVENT
 BEGIN:VEVENT
 UID:bd896a33fa1e6ead65f3f161a9ea73f5ae6c741f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261202T150000
 DTEND;TZID=Europe/Athens:20261202T180000
 SUMMARY:[Μάθημα] User-Centered Design Thinking
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Kotsopoulo
- s
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Kotsopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:9f284886f37330042118855675d32731e0887392@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261202T180000
 DTEND;TZID=Europe/Athens:20261202T210000
-SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision Mak
- ing
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos /
-  I. Mourtos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision M
+ aking
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos
+  / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:05964ff519d24dbd1b2e7fa37d19dac33b820e94@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261204T150000
 DTEND;TZID=Europe/Athens:20261204T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:34372fd694e635103f909e9806dc9a7d01cf0b8b@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261204T180000
 DTEND;TZID=Europe/Athens:20261204T210000
 SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:45bf10ad32e7e5a4983093783a3d337ba498fd9f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261205T090000
 DTEND;TZID=Europe/Athens:20261205T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:607b56e7af5268b252d5c2e179517dfe1663fde6@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261205T120000
 DTEND;TZID=Europe/Athens:20261205T150000
 SUMMARY:[Μάθημα] Business Process Modelling and Re-engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimenak
- ou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimen
+ akou
 END:VEVENT
 BEGIN:VEVENT
 UID:d699d056862aaaf448bb7293d6db8218cd1b59af@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261209T150000
 DTEND;TZID=Europe/Athens:20261209T180000
 SUMMARY:[Μάθημα] User-Centered Design Thinking
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Kotsopoulo
- s
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Kotsopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:d8d275a2872ba6b26efbbf0ce47410b884abf28f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261209T180000
 DTEND;TZID=Europe/Athens:20261209T210000
-SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision Mak
- ing
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos /
-  I. Mourtos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision M
+ aking
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos
+  / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:31333600ded125919a815dac9dd0a1aabfa8b8a9@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261211T150000
 DTEND;TZID=Europe/Athens:20261211T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:09ea1643a687313f90a1fcaa553bad326bd7196d@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261211T180000
 DTEND;TZID=Europe/Athens:20261211T210000
 SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:55958ee7778724a1b681c06b004dcd45e13ae636@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261212T090000
 DTEND;TZID=Europe/Athens:20261212T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:7ad664fbedfcceaa969757e2321b907b0a28da35@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261212T120000
 DTEND;TZID=Europe/Athens:20261212T150000
 SUMMARY:[Μάθημα] Business Process Modelling and Re-engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimenak
- ou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimen
+ akou
 END:VEVENT
 BEGIN:VEVENT
 UID:27da2ce99a25aca7ed91f9f85096d72a4abaffcd@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261216T150000
 DTEND;TZID=Europe/Athens:20261216T180000
 SUMMARY:[Μάθημα] User-Centered Design Thinking
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Kotsopoulo
- s
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Kotsopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:52c4e20d14d3527039980bddcef333cf8debc989@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261216T180000
 DTEND;TZID=Europe/Athens:20261216T210000
-SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision Mak
- ing
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos /
-  I. Mourtos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision M
+ aking
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos
+  / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:8f362f36db1bef3e2e5f2aae5a0cc38c89e936ec@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261218T150000
 DTEND;TZID=Europe/Athens:20261218T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:639d14f9667f4d9dc8e8be8c89a36a1c9676a2a9@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261218T180000
 DTEND;TZID=Europe/Athens:20261218T210000
 SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:769777bf37c75eedfe2cc87a335994bede13bc06@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261219T090000
 DTEND;TZID=Europe/Athens:20261219T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:b1dbc46d937a44362c5a9fcf684e53e951c67d69@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20261219T120000
 DTEND;TZID=Europe/Athens:20261219T150000
 SUMMARY:[Μάθημα] Business Process Modelling and Re-engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimenak
- ou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimen
+ akou
 END:VEVENT
 BEGIN:VEVENT
 UID:9fa7e3b639fba30eaacc6a9ee4071f936236f2be@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20270107
-SUMMARY:Αργία / Διακοπές: Χριστουγεννιάτικες
-  διακοπές
+SUMMARY:Αργία / Διακοπές: Χριστουγεννιάτικε
+ ς διακοπές
+LOCATION:
 CATEGORIES:Αργία
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7759bce727cf5627f497fe282fc349a488d1e6d7@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270108T150000
 DTEND;TZID=Europe/Athens:20270108T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:fcab5b880d8b01e733c1745b7406a4aecf9006e3@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270108T180000
 DTEND;TZID=Europe/Athens:20270108T210000
 SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:d3335a2c491fcc2e3e86d542e3335131225be763@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270109T090000
 DTEND;TZID=Europe/Athens:20270109T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:d8c4fdb63aaa2e35602d9e39d27880d9e4e2eab5@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270109T120000
 DTEND;TZID=Europe/Athens:20270109T150000
 SUMMARY:[Μάθημα] Business Process Modelling and Re-engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimenak
- ou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimen
+ akou
 END:VEVENT
 BEGIN:VEVENT
 UID:933db1e3987a2eb6df047ac081d5900ec3329bfb@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270113T150000
 DTEND;TZID=Europe/Athens:20270113T180000
 SUMMARY:[Μάθημα] User-Centered Design Thinking
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Kotsopoulo
- s
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Kotsopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:1b876cb8e1964f5cdb899bda2c9a31eca9d6b901@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270113T180000
 DTEND;TZID=Europe/Athens:20270113T210000
-SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision Mak
- ing
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos /
-  I. Mourtos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+SUMMARY:[Μάθημα] Statistics and Quantitative Methods for Decision M
+ aking
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 404\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Kritikos
+  / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:7d31438089976e48a66f5626321b546875bf3d62@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270115T150000
 DTEND;TZID=Europe/Athens:20270115T180000
 SUMMARY:[Μάθημα] Systems Analysis and Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris / 
- K. Diakonikolaou / A. Poulimenakou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Lazaris 
+ / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:9abeb0f391e458a24fe6290dad6ab1d9a9d7871d@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270115T180000
 DTEND;TZID=Europe/Athens:20270115T210000
 SUMMARY:[Μάθημα] Digital Transformation and Business Strategy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis /
-  T. Farmakis / X. Lazaris
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 403\, 4ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Doukidis
+  / T. Farmakis / X. Lazaris
 END:VEVENT
 BEGIN:VEVENT
 UID:17a2c447bdc51bab045a99259d6cb852a56f191a@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270116T090000
 DTEND;TZID=Europe/Athens:20270116T120000
 SUMMARY:[Μάθημα] Java and Web (React) Programming
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androutsos
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:a43960fb694be816d4e6ea64f2660ef09ae32b08@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270116T120000
 DTEND;TZID=Europe/Athens:20270116T150000
 SUMMARY:[Μάθημα] Business Process Modelling and Re-engineering
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimenak
- ou
-LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφος
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 304\, 3ος όροφο
+ ς
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: A. Poulimen
+ akou
 END:VEVENT
 BEGIN:VEVENT
 UID:dd7e12357f778ea81a2645bfd54f1b3b9c037f7c@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270124
 SUMMARY:1ο εξάμηνο - περίοδος αναπληρώσεων
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ac8fac240670d6edcf7a3da78daf8f748c371e62@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270120T150000
 DTEND;TZID=Europe/Athens:20270120T180000
 SUMMARY:[Αναπλήρωση] User-Centered Design Thinking
-DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: D. Ko
- tsopoulos
+LOCATION:
 CATEGORIES:Αναπλήρωση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: D. 
+ Kotsopoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0a335b224573aefff8dc789f86d547b66c69fe@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270120T180000
 DTEND;TZID=Europe/Athens:20270120T210000
-SUMMARY:[Αναπλήρωση] Statistics and Quantitative Methods for Deci
- sion Making
-DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: E. Kr
- itikos / I. Mourtos
+SUMMARY:[Αναπλήρωση] Statistics and Quantitative Methods for De
+ cision Making
+LOCATION:
 CATEGORIES:Αναπλήρωση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: E. 
+ Kritikos / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:c0ce5a4b9edd2917f0c10ec2bf7baaf032da6aa5@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270207
 SUMMARY:1ο εξάμηνο - εξεταστική 2ης περιόδου
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a70bec4bd0d6d9c19e057d054c88d4041ad7e571@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270125T150000
 DTEND;TZID=Europe/Athens:20270125T180000
 SUMMARY:[Εξέταση] User-Centered Design Thinking
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: D. Kotsopou
- los
+LOCATION:
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: D. Kotsop
+ oulos
 END:VEVENT
 BEGIN:VEVENT
 UID:5a29b30cbbcfb3192c6d8f5809fe53c734443732@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270127T180000
 DTEND;TZID=Europe/Athens:20270127T210000
-SUMMARY:[Εξέταση] Statistics and Quantitative Methods for Decision M
- aking
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: E. Kritikos
-  / I. Mourtos
+SUMMARY:[Εξέταση] Statistics and Quantitative Methods for Decision
+  Making
+LOCATION:
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: E. Kritik
+ os / I. Mourtos
 END:VEVENT
 BEGIN:VEVENT
 UID:6b0748966cfe3fe588ac2dc9367b36431e7bc105@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270129T150000
 DTEND;TZID=Europe/Athens:20270129T180000
 SUMMARY:[Εξέταση] Systems Analysis and Design
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: X. Lazaris 
- / K. Diakonikolaou / A. Poulimenakou
+LOCATION:
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: X. Lazari
+ s / K. Diakonikolaou / A. Poulimenakou
 END:VEVENT
 BEGIN:VEVENT
 UID:b4dacd4675e3497aab58d03c83068fb0d70e2258@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Αργία / Διακοπές: 30 Ιανουαρίου
+LOCATION:
 CATEGORIES:Αργία
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:abbe812702d6b967c1a76b1a58b34192edb6f406@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270321
 SUMMARY:2ο εξάμηνο - 1η διδακτική περίοδος
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9ef0d6cc343b6a7740f8712ea2a0fcde869e2b90@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270210T150000
 DTEND;TZID=Europe/Athens:20270210T180000
 SUMMARY:[Μάθημα] Customer Analytics
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantopou
- los
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantop
+ oulos
 END:VEVENT
 BEGIN:VEVENT
 UID:a36efd12660dda48ffa2ffb45baa76fbc5c9e7ec@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270210T180000
 DTEND;TZID=Europe/Athens:20270210T210000
 SUMMARY:[Μάθημα] Digital Transformation Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:30a059327f8b133700f7cbce4af8f257d8bfd66f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270212T150000
 DTEND;TZID=Europe/Athens:20270212T180000
 SUMMARY:[Μάθημα] Digital Services and Innovation
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderquist
-  / S. Baloutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderqui
+ st / S. Baloutsos
 END:VEVENT
 BEGIN:VEVENT
 UID:022a682cbf5ac93f8e5066c906210e4499758958@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270212T180000
 DTEND;TZID=Europe/Athens:20270212T210000
 SUMMARY:[Μάθημα] Banking and Finance
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
 END:VEVENT
 BEGIN:VEVENT
 UID:464fb7d7659e40a387c971cd85bf961d5583c819@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270213T090000
 DTEND;TZID=Europe/Athens:20270213T120000
-SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for i
- OS)
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopoulo
- s
+SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for
+  iOS)
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:30df9cd9d5aa1337ac34df54dfcf7bb0026ca01b@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270213T120000
 DTEND;TZID=Europe/Athens:20270213T150000
 SUMMARY:[Μάθημα] Big Data Systems and Cloud Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
 END:VEVENT
 BEGIN:VEVENT
 UID:b1065090b941ddf570c04d15e6d09a277cd2b95d@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270217T150000
 DTEND;TZID=Europe/Athens:20270217T180000
 SUMMARY:[Μάθημα] Customer Analytics
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantopou
- los
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantop
+ oulos
 END:VEVENT
 BEGIN:VEVENT
 UID:286cdbc8e45568ef7bc2bf8bf5043de99656b8e2@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270217T180000
 DTEND;TZID=Europe/Athens:20270217T210000
 SUMMARY:[Μάθημα] Digital Transformation Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:59d254e7c0c9d1acac52a8dfecdb4cab81bda54a@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270219T150000
 DTEND;TZID=Europe/Athens:20270219T180000
 SUMMARY:[Μάθημα] Digital Services and Innovation
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderquist
-  / S. Baloutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderqui
+ st / S. Baloutsos
 END:VEVENT
 BEGIN:VEVENT
 UID:c784fc093dfbee543bbb2597ea30a2845d000e0b@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270219T180000
 DTEND;TZID=Europe/Athens:20270219T210000
 SUMMARY:[Μάθημα] Banking and Finance
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
 END:VEVENT
 BEGIN:VEVENT
 UID:7cd69bc38c8efb610f2813fcbad2b5df09f44111@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270220T090000
 DTEND;TZID=Europe/Athens:20270220T120000
-SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for i
- OS)
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopoulo
- s
+SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for
+  iOS)
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:3ad4c6ac10b33b3a67e5c5c26757f42049cfcdee@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270220T120000
 DTEND;TZID=Europe/Athens:20270220T150000
 SUMMARY:[Μάθημα] Big Data Systems and Cloud Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
 END:VEVENT
 BEGIN:VEVENT
 UID:394817750ce153a9127c52f8e9e439b1990f7882@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270224T150000
 DTEND;TZID=Europe/Athens:20270224T180000
 SUMMARY:[Μάθημα] Customer Analytics
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantopou
- los
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantop
+ oulos
 END:VEVENT
 BEGIN:VEVENT
 UID:32b00dc50b388d384f8cbbe5cee158ea1befd00e@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270224T180000
 DTEND;TZID=Europe/Athens:20270224T210000
 SUMMARY:[Μάθημα] Digital Transformation Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:2761f2218e78e49c80ef1f654be38552bb2442d7@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270226T150000
 DTEND;TZID=Europe/Athens:20270226T180000
 SUMMARY:[Μάθημα] Digital Services and Innovation
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderquist
-  / S. Baloutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderqui
+ st / S. Baloutsos
 END:VEVENT
 BEGIN:VEVENT
 UID:de93cbaa6495993a78203f5ab7296096de9b15bb@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270226T180000
 DTEND;TZID=Europe/Athens:20270226T210000
 SUMMARY:[Μάθημα] Banking and Finance
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
 END:VEVENT
 BEGIN:VEVENT
 UID:c050a2a9ca213ab218ce7cebe8a7e5ff121a6c90@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270227T090000
 DTEND;TZID=Europe/Athens:20270227T120000
-SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for i
- OS)
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopoulo
- s
+SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for
+  iOS)
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:3557a68bcae7d7af14880d75dd4de06523e6396b@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270227T120000
 DTEND;TZID=Europe/Athens:20270227T150000
 SUMMARY:[Μάθημα] Big Data Systems and Cloud Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
 END:VEVENT
 BEGIN:VEVENT
 UID:4a9f4d310d453264fafbf2b2e52931dd62884287@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270303T150000
 DTEND;TZID=Europe/Athens:20270303T180000
 SUMMARY:[Μάθημα] Customer Analytics
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantopou
- los
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantop
+ oulos
 END:VEVENT
 BEGIN:VEVENT
 UID:8a0226883357644320ffa9ca61959b294a6e696f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270303T180000
 DTEND;TZID=Europe/Athens:20270303T210000
 SUMMARY:[Μάθημα] Digital Transformation Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:c35ba44c8f6eaf7b18fd6aec1fdd77214b35fb70@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270305T150000
 DTEND;TZID=Europe/Athens:20270305T180000
 SUMMARY:[Μάθημα] Digital Services and Innovation
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderquist
-  / S. Baloutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderqui
+ st / S. Baloutsos
 END:VEVENT
 BEGIN:VEVENT
 UID:d1bdafcf01c8c571d372b79758fc43e9c9293fc8@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270305T180000
 DTEND;TZID=Europe/Athens:20270305T210000
 SUMMARY:[Μάθημα] Banking and Finance
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
 END:VEVENT
 BEGIN:VEVENT
 UID:57904cb0549e3692ccfc302439ab8c6a96102bfa@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270306T090000
 DTEND;TZID=Europe/Athens:20270306T120000
-SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for i
- OS)
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopoulo
- s
+SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for
+  iOS)
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:f6b789d5ed9b3e2b51cab42fab77aa67e0d7dc71@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270306T120000
 DTEND;TZID=Europe/Athens:20270306T150000
 SUMMARY:[Μάθημα] Big Data Systems and Cloud Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
 END:VEVENT
 BEGIN:VEVENT
 UID:9cce8fd6d3227a980194023f7f4ec5edba910815@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270310T150000
 DTEND;TZID=Europe/Athens:20270310T180000
 SUMMARY:[Μάθημα] Customer Analytics
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantopou
- los
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantop
+ oulos
 END:VEVENT
 BEGIN:VEVENT
 UID:7d39643a80760934f0d306ae08b3f104c1c29ccf@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270310T180000
 DTEND;TZID=Europe/Athens:20270310T210000
 SUMMARY:[Μάθημα] Digital Transformation Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:06561da13c9a2e181693523d46d50284aba02d84@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270312T150000
 DTEND;TZID=Europe/Athens:20270312T180000
 SUMMARY:[Μάθημα] Digital Services and Innovation
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderquist
-  / S. Baloutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderqui
+ st / S. Baloutsos
 END:VEVENT
 BEGIN:VEVENT
 UID:91eee4196674b76726439ec964a848c6fc4dbc3a@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270312T180000
 DTEND;TZID=Europe/Athens:20270312T210000
 SUMMARY:[Μάθημα] Banking and Finance
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
 END:VEVENT
 BEGIN:VEVENT
 UID:004985a378074641816352f4f325cdb622c51f05@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270313T090000
 DTEND;TZID=Europe/Athens:20270313T120000
-SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for i
- OS)
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopoulo
- s
+SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for
+  iOS)
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:d197fe7398a6e4f37f2c1509d997c957e33d940c@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270313T120000
 DTEND;TZID=Europe/Athens:20270313T150000
 SUMMARY:[Μάθημα] Big Data Systems and Cloud Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
 END:VEVENT
 BEGIN:VEVENT
 UID:2fd9a926a68a15f7d8a1dc63a60f367a53618a2c@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:Αργία / Διακοπές: Καθαρά Δευτέρα
+LOCATION:
 CATEGORIES:Αργία
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0e82181c83e18c975745e5e41c8cb469df9fa9ad@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270317T150000
 DTEND;TZID=Europe/Athens:20270317T180000
 SUMMARY:[Μάθημα] Customer Analytics
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantopou
- los
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: P. Sarantop
+ oulos
 END:VEVENT
 BEGIN:VEVENT
 UID:b4c0d6a8d110a29d4587d1cc21c239fe5aa2f407@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270317T180000
 DTEND;TZID=Europe/Athens:20270317T210000
 SUMMARY:[Μάθημα] Digital Transformation Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:5e3bc41677a380a81f8a5fd34287d0a2fbc1650e@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270319T150000
 DTEND;TZID=Europe/Athens:20270319T180000
 SUMMARY:[Μάθημα] Digital Services and Innovation
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderquist
-  / S. Baloutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: E. Soderqui
+ st / S. Baloutsos
 END:VEVENT
 BEGIN:VEVENT
 UID:d1fcaf6ea41152675c4b74733b9ff66af790b891@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270319T180000
 DTEND;TZID=Europe/Athens:20270319T210000
 SUMMARY:[Μάθημα] Banking and Finance
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Drakos
 END:VEVENT
 BEGIN:VEVENT
 UID:b319e02ea1d9e25b5d64ddabe3db8518724bc232@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270320T090000
 DTEND;TZID=Europe/Athens:20270320T120000
-SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for i
- OS)
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopoulo
- s
+SUMMARY:[Μάθημα] Mobile Programming (Kotlin for Android & Swift for
+  iOS)
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: I. Kontopou
+ los
 END:VEVENT
 BEGIN:VEVENT
 UID:5943385bdb21d56f3731fa26eb90e5f66353385b@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270320T120000
 DTEND;TZID=Europe/Athens:20270320T150000
 SUMMARY:[Μάθημα] Big Data Systems and Cloud Management
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: X. Kapetis
 END:VEVENT
 BEGIN:VEVENT
 UID:4d9e45b8ec05b1d7f82c169f6d70bfdb3a620001@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270328
 SUMMARY:2ο εξάμηνο - περίοδος αναπληρώσεων
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c9d0c94172ab81375965c662e86571d8f371e83b@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Αργία / Διακοπές: 25η Μαρτίου
+LOCATION:
 CATEGORIES:Αργία
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:55664dc93dd01ee4a49114ed17362a246e9f5fef@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270411
 SUMMARY:2ο εξάμηνο - εξεταστική 1ης περιόδου
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9be73cfbb2c4ec674849f7f356e12ea39c34f2df@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270329T180000
 DTEND;TZID=Europe/Athens:20270329T210000
 SUMMARY:[Εξέταση] Banking and Finance
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: K. Drakos
+LOCATION:
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: K. Drakos
 END:VEVENT
 BEGIN:VEVENT
 UID:47ed298903c017f40e99b99b5733822c4610ff98@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270331T180000
 DTEND;TZID=Europe/Athens:20270331T210000
 SUMMARY:[Εξέταση] Customer Analytics
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: P. Sarantop
- oulos
+LOCATION:
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: P. Sarant
+ opoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:99c389367f20b8366e00b717a6a302e3e5240bb8@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270401T180000
 DTEND;TZID=Europe/Athens:20270401T210000
-SUMMARY:[Εξέταση] Digital Transformation Management (Presentations)
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: G. Lekakos
+SUMMARY:[Εξέταση] Digital Transformation Management (Presentations
+ )
+LOCATION:
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: G. Lekako
+ s
 END:VEVENT
 BEGIN:VEVENT
 UID:9b2b158867ed66d1ca96cf9867c2306e28610258@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270530
 SUMMARY:2ο εξάμηνο - 2η διδακτική περίοδος
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:46bc7a9ffa545904e2be3e3f217866b668f6e051@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270414T150000
 DTEND;TZID=Europe/Athens:20270414T180000
 SUMMARY:[Μάθημα] Cybersecurity and Data Privacy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Mitropoulo
- s / V. Koniakou
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Mitropou
+ los / V. Koniakou
 END:VEVENT
 BEGIN:VEVENT
 UID:05c4cb0815a17c38c01b5884b89d44a6cb21c85e@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270414T180000
 DTEND;TZID=Europe/Athens:20270414T210000
 SUMMARY:[Μάθημα] User Experience Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:3e854622ac80b72c83e3eceb42dcc1f8f2f351e3@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270416T150000
 DTEND;TZID=Europe/Athens:20270416T180000
 SUMMARY:[Μάθημα] Data Analytics and Visualization
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
 END:VEVENT
 BEGIN:VEVENT
 UID:de487cfb974531c69b0fe10a4c44ddcf1a72ea76@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270416T180000
 DTEND;TZID=Europe/Athens:20270416T210000
 SUMMARY:[Μάθημα] Project Management and Agile Methods
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsop
- oulos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ opoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:baf93ca0043090c7f190dad633e8e064f12580b6@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270417T090000
 DTEND;TZID=Europe/Athens:20270417T120000
-SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algorit
- hms
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiatis
+SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algor
+ ithms
 LOCATION:Online
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiati
+ s
 END:VEVENT
 BEGIN:VEVENT
 UID:c9edb1a61767e644bf298e25b2afac56bc8de4c1@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270417T120000
 DTEND;TZID=Europe/Athens:20270417T150000
 SUMMARY:[Μάθημα] Full Stack Web Development
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:8c4e3882c87468ef79ec2e5914517bd6f1c00771@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270421T150000
 DTEND;TZID=Europe/Athens:20270421T180000
 SUMMARY:[Μάθημα] Cybersecurity and Data Privacy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Mitropoulo
- s / V. Koniakou
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Mitropou
+ los / V. Koniakou
 END:VEVENT
 BEGIN:VEVENT
 UID:358368862928ecde647ab8e2869cba86f0976394@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270421T180000
 DTEND;TZID=Europe/Athens:20270421T210000
 SUMMARY:[Μάθημα] User Experience Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:9841f85ab6a9b52ac0653046d8410a6629f2fee0@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270423T150000
 DTEND;TZID=Europe/Athens:20270423T180000
 SUMMARY:[Μάθημα] Data Analytics and Visualization
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
 END:VEVENT
 BEGIN:VEVENT
 UID:5fb1896bafc011d7f418334a45a0c7fce7aa9f03@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270423T180000
 DTEND;TZID=Europe/Athens:20270423T210000
 SUMMARY:[Μάθημα] Project Management and Agile Methods
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsop
- oulos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ opoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:6bc690e239769b5877fc5685d8b306d903856681@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270424T090000
 DTEND;TZID=Europe/Athens:20270424T120000
-SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algorit
- hms
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiatis
+SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algor
+ ithms
 LOCATION:Online
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiati
+ s
 END:VEVENT
 BEGIN:VEVENT
 UID:a285fc20e075398c5e29ba110a510916e0ee5e38@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270424T120000
 DTEND;TZID=Europe/Athens:20270424T150000
 SUMMARY:[Μάθημα] Full Stack Web Development
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:df9ad5c0def2c0f692338c0aaff2fbd6c4a0bbc2@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270506
 SUMMARY:Αργία / Διακοπές: Διακοπές Πάσχα
+LOCATION:
 CATEGORIES:Αργία
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:17d13afc8d1e6728a239aac55d1c033956faf444@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270507T150000
 DTEND;TZID=Europe/Athens:20270507T180000
 SUMMARY:[Μάθημα] Data Analytics and Visualization
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
 END:VEVENT
 BEGIN:VEVENT
 UID:97a04e955d5dd77100672fbd37728865c9c772cc@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270507T180000
 DTEND;TZID=Europe/Athens:20270507T210000
 SUMMARY:[Μάθημα] Project Management and Agile Methods
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsop
- oulos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ opoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:6c137d9ccdff8123a30d24bbccfc956a17e06a18@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270508T090000
 DTEND;TZID=Europe/Athens:20270508T120000
-SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algorit
- hms
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiatis
+SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algor
+ ithms
 LOCATION:Online
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiati
+ s
 END:VEVENT
 BEGIN:VEVENT
 UID:ebeac268587780f00f914c8305e7ce734c98db8f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270508T120000
 DTEND;TZID=Europe/Athens:20270508T150000
 SUMMARY:[Μάθημα] Full Stack Web Development
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:5a6d652674e64711b46f83624c60acc5ab68ea31@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270512T150000
 DTEND;TZID=Europe/Athens:20270512T180000
 SUMMARY:[Μάθημα] Cybersecurity and Data Privacy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Mitropoulo
- s / V. Koniakou
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Mitropou
+ los / V. Koniakou
 END:VEVENT
 BEGIN:VEVENT
 UID:9a6fb16864433443f76e47ba2224aca67f4f537d@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270512T180000
 DTEND;TZID=Europe/Athens:20270512T210000
 SUMMARY:[Μάθημα] User Experience Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:5e1c466af2f39edffaa650602d2df10e5b1bd2fd@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270514T150000
 DTEND;TZID=Europe/Athens:20270514T180000
 SUMMARY:[Μάθημα] Data Analytics and Visualization
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
 END:VEVENT
 BEGIN:VEVENT
 UID:d74882fe882d67701fae41d224e20098921628a7@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270514T180000
 DTEND;TZID=Europe/Athens:20270514T210000
 SUMMARY:[Μάθημα] Project Management and Agile Methods
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsop
- oulos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ opoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:609c7dd3cd2622cb23c8b8ec6db4921547312328@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270515T090000
 DTEND;TZID=Europe/Athens:20270515T120000
-SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algorit
- hms
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiatis
+SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algor
+ ithms
 LOCATION:Online
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiati
+ s
 END:VEVENT
 BEGIN:VEVENT
 UID:009478fde6068859462063e17d2168f178d2a943@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270515T120000
 DTEND;TZID=Europe/Athens:20270515T150000
 SUMMARY:[Μάθημα] Full Stack Web Development
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:6bc62cae2c6c9b64bc48bc954221ebeb429859db@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270519T150000
 DTEND;TZID=Europe/Athens:20270519T180000
 SUMMARY:[Μάθημα] Cybersecurity and Data Privacy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Mitropoulo
- s / V. Koniakou
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Mitropou
+ los / V. Koniakou
 END:VEVENT
 BEGIN:VEVENT
 UID:db641b135049ce6bd2bc4153e604cab97b00df95@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270519T180000
 DTEND;TZID=Europe/Athens:20270519T210000
 SUMMARY:[Μάθημα] User Experience Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:2c3e3a456a44f3972febb061f2a0260581c551e6@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270521T150000
 DTEND;TZID=Europe/Athens:20270521T180000
 SUMMARY:[Μάθημα] Data Analytics and Visualization
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
 END:VEVENT
 BEGIN:VEVENT
 UID:49c83d6ef6443a77b0271babd3e2c648f1858115@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270521T180000
 DTEND;TZID=Europe/Athens:20270521T210000
 SUMMARY:[Μάθημα] Project Management and Agile Methods
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsop
- oulos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ opoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:052390b5202fb5466ea8a4d2bbf51e65fb4d461f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270522T090000
 DTEND;TZID=Europe/Athens:20270522T120000
-SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algorit
- hms
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiatis
+SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algor
+ ithms
 LOCATION:Online
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiati
+ s
 END:VEVENT
 BEGIN:VEVENT
 UID:a84c74f80638af613669a259d1eec29689f9a4d4@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270522T120000
 DTEND;TZID=Europe/Athens:20270522T150000
 SUMMARY:[Μάθημα] Full Stack Web Development
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:80f04cbf6aa120088db50eb14e01399498d1cf98@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270526T150000
 DTEND;TZID=Europe/Athens:20270526T180000
 SUMMARY:[Μάθημα] Cybersecurity and Data Privacy
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Mitropoulo
- s / V. Koniakou
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Mitropou
+ los / V. Koniakou
 END:VEVENT
 BEGIN:VEVENT
 UID:5e1028ea1b5930c9686c6c089a3ac7e69fce3bb5@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270526T180000
 DTEND;TZID=Europe/Athens:20270526T210000
 SUMMARY:[Μάθημα] User Experience Design
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: G. Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:9fe3e43bfc47798c907a95b5be92633405578179@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270528T150000
 DTEND;TZID=Europe/Athens:20270528T180000
 SUMMARY:[Μάθημα] Data Analytics and Visualization
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: M. Kechagia
 END:VEVENT
 BEGIN:VEVENT
 UID:cecf428ab3f523a57d3161fb2242ed6521294e7f@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270528T180000
 DTEND;TZID=Europe/Athens:20270528T210000
 SUMMARY:[Μάθημα] Project Management and Agile Methods
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsop
- oulos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ opoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:4898f884aebb4745ac8b309be9759f874b2bc5a5@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270529T090000
 DTEND;TZID=Europe/Athens:20270529T120000
-SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algorit
- hms
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiatis
+SUMMARY:[Μάθημα] Artificial Intelligence and Machine Learning Algor
+ ithms
 LOCATION:Online
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: N. Korfiati
+ s
 END:VEVENT
 BEGIN:VEVENT
 UID:bcca4712a16ff91fa2fa4e08935f2c65d41e0aae@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270529T120000
 DTEND;TZID=Europe/Athens:20270529T150000
 SUMMARY:[Μάθημα] Full Stack Web Development
-DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androutsos
+LOCATION:
 CATEGORIES:Μάθημα
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: K. Androuts
+ os
 END:VEVENT
 BEGIN:VEVENT
 UID:c8e46c4421c90c3698fc3251d24c09124c295721@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270606
 SUMMARY:2ο εξάμηνο - περίοδος αναπληρώσεων
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:15b8009aa38743fcf8a8881fda5c2b3e97627ff6@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270602T150000
 DTEND;TZID=Europe/Athens:20270602T180000
 SUMMARY:[Αναπλήρωση] Cybersecurity and Data Privacy
-DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: D. Mi
- tropoulos / V. Koniakou
+LOCATION:
 CATEGORIES:Αναπλήρωση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: D. 
+ Mitropoulos / V. Koniakou
 END:VEVENT
 BEGIN:VEVENT
 UID:5eede2b7231d6ccddc1a58c2605821b2f857a362@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270602T180000
 DTEND;TZID=Europe/Athens:20270602T210000
 SUMMARY:[Αναπλήρωση] User Experience Design
-DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: G. Le
- kakos
+LOCATION:
 CATEGORIES:Αναπλήρωση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: G. 
+ Lekakos
 END:VEVENT
 BEGIN:VEVENT
 UID:747faa5675b8dd17081ee8b727f8d0a4f69cef6d@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270620
 SUMMARY:2ο εξάμηνο - εξεταστική 2ης περιόδου
+LOCATION:
 CATEGORIES:Ακαδημαϊκή περίοδος
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:632ac16ed496b302ce258526d05b3a14d9779040@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270607T150000
 DTEND;TZID=Europe/Athens:20270607T180000
 SUMMARY:[Εξέταση] Data Analytics and Visualization
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: M. Kechagia
+LOCATION:
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: M. Kechag
+ ia
 END:VEVENT
 BEGIN:VEVENT
 UID:fc55774cd2d49fefbecb14f4d52e3bd06556602b@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270609T150000
 DTEND;TZID=Europe/Athens:20270609T180000
 SUMMARY:[Εξέταση] Cybersecurity and Data Privacy
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: D. Mitropou
- los / V. Koniakou
+LOCATION:
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: D. Mitrop
+ oulos / V. Koniakou
 END:VEVENT
 BEGIN:VEVENT
 UID:ebcea2d8e1b608fd56df1a203fe2d7da272da4d1@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Athens:20270611T180000
 DTEND;TZID=Europe/Athens:20270611T210000
 SUMMARY:[Εξέταση] Project Management and Agile Methods
-DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: K. Androuts
- opoulos
+LOCATION:
 CATEGORIES:Εξέταση
 STATUS:CONFIRMED
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: K. Androu
+ tsopoulos
 END:VEVENT
 BEGIN:VEVENT
 UID:58fe042cddda645cdedd0efb81be8d1da45b2541@pmsc-aidt
-DTSTAMP:20260803T120000Z
+DTSTAMP:20261023T164201Z
+LAST-MODIFIED:20261023T164201Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
 SUMMARY:Αργία / Διακοπές: Αγίου Πνεύματος
+LOCATION:
 CATEGORIES:Αργία
-TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a86f2d9996bdaee652b42cc744bdcdf801b2e4a@pmsc-aidt
+DTSTAMP:20261023T164201Z
+DTSTART;TZID=Europe/Athens:20261031T120000
+DTEND;TZID=Europe/Athens:20261031T150000
+SUMMARY:[Μάθημα] Data Management and Engineering
+DESCRIPTION:Τύπος: Μάθημα\nΔιδάσκοντες: D. Papakiri
+ akopoulos
+LOCATION:Ευελπίδων 47Α\, Αίθουσα 901\, 9ος όροφο
+ ς
+CATEGORIES:Μάθημα
+STATUS:CANCELLED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:a3a9eba05a29ed2af3358296e678c6d0e73c15e6@pmsc-aidt
+DTSTAMP:20261023T164201Z
+DTSTART;TZID=Europe/Athens:20261113T150000
+DTEND;TZID=Europe/Athens:20261113T180000
+SUMMARY:[Εξέταση] Digital Transformation and Business Strategy
+DESCRIPTION:Τύπος: Εξέταση\nΔιδάσκοντες: G. Doukid
+ is / T. Farmakis / X. Lazaris
+CATEGORIES:Εξέταση
+STATUS:CANCELLED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:e39a8889b6d53c3f348a8bbd36444be7ac5f5034@pmsc-aidt
+DTSTAMP:20261023T164201Z
+DTSTART;TZID=Europe/Athens:20261104T150000
+DTEND;TZID=Europe/Athens:20261104T180000
+SUMMARY:[Αναπλήρωση] Digital Transformation and Business Strate
+ gy
+DESCRIPTION:Τύπος: Αναπλήρωση\nΔιδάσκοντες: G. 
+ Doukidis / T. Farmakis / X. Lazaris
+CATEGORIES:Αναπλήρωση
+STATUS:CANCELLED
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR

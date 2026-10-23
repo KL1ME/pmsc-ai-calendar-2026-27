@@ -17,8 +17,10 @@ Transformation.
 - Downloadable iCalendar file for Apple Calendar, Google Calendar and Outlook
 - Responsive desktop and mobile layout
 
-The calendar contains 188 events. All 166 timed events were checked against the
-source programme and examination tables.
+The current calendar contains 187 events (165 timed). The October 23 update
+incorporates the official revised semester timetable effective October 12 and
+the replacement/examination timetable sent October 22. Both the web calendar
+and public ICS are generated from the same validated snapshot.
 
 ## Local development
 
@@ -44,7 +46,7 @@ The web calendar data is stored in `app/calendar-data.ts`. The downloadable
 
 Open this calendar using **Ημερολόγιο & παραδόσεις** in the local Moodle Monitor.
 Assignment deadlines appear in orange, with the Moodle due time in Europe/Athens,
-course name and assignment link. The existing 188 timetable records stay unchanged.
+course name and assignment link. Timetable updates are separate from private deadlines.
 
 The monitor and calendar exchange a minimal snapshot through `postMessage`,
 checking the exact origin, source window and random pairing session. The Moodle

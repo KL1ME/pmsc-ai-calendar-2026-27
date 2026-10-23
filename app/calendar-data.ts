@@ -334,14 +334,14 @@ export const calendarEvents: CalendarEvent[] = [
     "category": "Μάθημα"
   },
   {
-    "id": "9714ae7eee87ce7ab38d056935d8b8fafca10fc3",
-    "title": "[Μάθημα] Digital Transformation and Business Strategy",
+    "id": "2bc9d2e07f975c3140f784ac49a6b844c07bd8f5",
+    "title": "[Μάθημα] Data Management and Engineering",
     "date": "2026-10-14",
     "endDate": "2026-10-14",
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -374,7 +374,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -396,29 +396,29 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "09:00",
     "endTime": "12:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
-    "id": "2bc9d2e07f975c3140f784ac49a6b844c07bd8f5",
-    "title": "[Μάθημα] Data Management and Engineering",
+    "id": "9714ae7eee87ce7ab38d056935d8b8fafca10fc3",
+    "title": "[Μάθημα] Digital Transformation and Business Strategy",
     "date": "2026-10-17",
     "endDate": "2026-10-17",
     "startTime": "12:00",
     "endTime": "15:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
-    "id": "cc1fa9a7177feb1c70f6e93cf35bf3d5a3d77176",
-    "title": "[Μάθημα] Digital Transformation and Business Strategy",
+    "id": "6b788cf767639aac639f993eeeb1bce4b37c2266",
+    "title": "[Μάθημα] Data Management and Engineering",
     "date": "2026-10-21",
     "endDate": "2026-10-21",
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -451,7 +451,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -473,18 +473,18 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "09:00",
     "endTime": "12:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
-    "id": "6b788cf767639aac639f993eeeb1bce4b37c2266",
-    "title": "[Μάθημα] Data Management and Engineering",
+    "id": "cc1fa9a7177feb1c70f6e93cf35bf3d5a3d77176",
+    "title": "[Μάθημα] Digital Transformation and Business Strategy",
     "date": "2026-10-24",
     "endDate": "2026-10-24",
     "startTime": "12:00",
     "endTime": "15:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -506,7 +506,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -528,19 +528,19 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "09:00",
     "endTime": "12:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
-    "id": "6a86f2d9996bdaee652b42cc744bdcdf801b2e4a",
-    "title": "[Μάθημα] Data Management and Engineering",
+    "title": "[Μάθημα] Digital Transformation and Business Strategy",
     "date": "2026-10-31",
     "endDate": "2026-10-31",
     "startTime": "12:00",
     "endTime": "15:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
-    "category": "Μάθημα"
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
+    "category": "Μάθημα",
+    "id": "a700200c29992c6d7b65c8ee2bbd6f30059c7d99"
   },
   {
     "id": "15fb6256411897b79a59aa337d4dfe1633246ef7",
@@ -554,15 +554,15 @@ export const calendarEvents: CalendarEvent[] = [
     "category": "Ακαδημαϊκή περίοδος"
   },
   {
-    "id": "e39a8889b6d53c3f348a8bbd36444be7ac5f5034",
-    "title": "[Αναπλήρωση] Digital Transformation and Business Strategy",
+    "title": "[Αναπλήρωση] Data Management and Engineering",
     "date": "2026-11-04",
     "endDate": "2026-11-04",
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "",
-    "category": "Αναπλήρωση"
+    "location": "Ευελπίδων 47Α, Αίθουσα 404, 4ος όροφος",
+    "category": "Αναπλήρωση",
+    "id": "2d7b752cbba37c56319bd0c2e3e4bc0297c6f880"
   },
   {
     "id": "2aaa8b0fe6c15e4e228c12fea784bfbabdd437c1",
@@ -572,7 +572,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "18:00",
     "endTime": "21:00",
     "allDay": false,
-    "location": "",
+    "location": "Ευελπίδων 47Α, Αίθουσα 404, 4ος όροφος",
     "category": "Αναπλήρωση"
   },
   {
@@ -594,18 +594,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "18:00",
     "endTime": "21:00",
     "allDay": false,
-    "location": "",
-    "category": "Εξέταση"
-  },
-  {
-    "id": "a3a9eba05a29ed2af3358296e678c6d0e73c15e6",
-    "title": "[Εξέταση] Digital Transformation and Business Strategy",
-    "date": "2026-11-13",
-    "endDate": "2026-11-13",
-    "startTime": "15:00",
-    "endTime": "18:00",
-    "allDay": false,
-    "location": "",
+    "location": "Ευελπίδων 47Α, Αίθουσα 404, 4ος όροφος",
     "category": "Εξέταση"
   },
   {
@@ -627,7 +616,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "18:00",
     "endTime": "21:00",
     "allDay": false,
-    "location": "",
+    "location": "Ευελπίδων 47Α: Αίθουσα 404 (Barlas - Markou), Αίθουσα 901 (Maroulis - Ziogas)",
     "category": "Εξέταση"
   },
   {
@@ -660,7 +649,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "18:00",
     "endTime": "21:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 404, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -671,7 +660,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -693,7 +682,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "09:00",
     "endTime": "12:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -704,7 +693,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "12:00",
     "endTime": "15:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -726,7 +715,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "18:00",
     "endTime": "21:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 404, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -737,7 +726,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -759,7 +748,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "09:00",
     "endTime": "12:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -770,7 +759,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "12:00",
     "endTime": "15:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -792,7 +781,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "18:00",
     "endTime": "21:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 404, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -803,7 +792,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -825,7 +814,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "09:00",
     "endTime": "12:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -836,7 +825,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "12:00",
     "endTime": "15:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -858,7 +847,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "18:00",
     "endTime": "21:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 404, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -869,7 +858,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -891,7 +880,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "09:00",
     "endTime": "12:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -902,7 +891,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "12:00",
     "endTime": "15:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -924,7 +913,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -946,7 +935,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "09:00",
     "endTime": "12:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -957,7 +946,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "12:00",
     "endTime": "15:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -979,7 +968,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "18:00",
     "endTime": "21:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 404, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -990,7 +979,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "15:00",
     "endTime": "18:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 403, 4ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -1012,7 +1001,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "09:00",
     "endTime": "12:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {
@@ -1023,7 +1012,7 @@ export const calendarEvents: CalendarEvent[] = [
     "startTime": "12:00",
     "endTime": "15:00",
     "allDay": false,
-    "location": "Ευελπίδων 47Α, Αίθουσα 901, 9ος όροφος",
+    "location": "Ευελπίδων 47Α, Αίθουσα 304, 3ος όροφος",
     "category": "Μάθημα"
   },
   {

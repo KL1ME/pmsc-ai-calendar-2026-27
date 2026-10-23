@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import { calendarEvents, type CalendarEvent } from "./calendar-data";
+import timetableRevision from "./timetable-revision.json";
 import { athensDateTime, DEADLINE_CATEGORY, DEADLINE_STORAGE, deadlinesICS, mergeEvents,
   parseDeadlineFeed, trustedMessage, validMonitorOrigin, type Connection, type DeadlineFeed } from "./moodle-deadlines";
 
@@ -152,6 +153,7 @@ export default function CalendarApp() {
         <div>
           <h1>AI for Digital Transformation</h1>
           <p>Ακαδημαϊκό ημερολόγιο 2026–27</p>
+          <p>Ενημέρωση προγράμματος: {new Intl.DateTimeFormat("el-GR", { timeZone: "Europe/Athens", dateStyle: "short" }).format(new Date(timetableRevision.updatedAt))}</p>
         </div>
         <a className="download-link" href={`${basePath}/pmsc-ai-digital-transformation-2026-27.ics`} download>
           Λήψη .ics
